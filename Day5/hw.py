@@ -1,4 +1,6 @@
-#Create a python program capable of greeting you with Good Morning, Good Afternoon, or Good Evening depending on the time of day.Your program should use time module to get the current hour.
+#Create a python program capable of greeting you with
+#Good Morning, Good Afternoon, or Good Evening 
+#depending on the time of day.Your program should use time module to get the current hour.
 
 import time;
 t = time.strftime("%H:%M:%S")
